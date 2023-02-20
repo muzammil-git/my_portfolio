@@ -1,16 +1,4 @@
-# my_portfolio
+# My Portfolio (Web and mobile responsive)
 
-A new Flutter project.
+<img height="500" align="left" alt="image" src="https://user-images.githubusercontent.com/54685589/220065592-da9a625b-4c60-4a90-85ca-036e4162b154.png">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
